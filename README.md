@@ -1,8 +1,6 @@
 # 15.-Movie-Recommendation-System
 
-
-🚀 Day 15 of My 25 Premium AI Projects Challenge 🎯
-🛠️ Project: Movie Recommendation System using Bag of Words
+# Click Here To See Demo [click to see demo](https://moviesrecommendationbyzaidnaeem.streamlit.app/)
 
 🧠 Today's Focus:
 I built a Content-Based Movie Recommendation System that suggests movies similar to a given one—based on storyline, cast, director, and genre.
