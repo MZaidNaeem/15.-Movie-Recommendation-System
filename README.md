@@ -1,6 +1,6 @@
 # 15.-Movie-Recommendation-System
 
-# Click Here To See Demo [click to see demo](https://moviesrecommendationbyzaidnaeem.streamlit.app/)
+# Click Here To See Demo [Click Here](https://moviesrecommendationbyzaidnaeem.streamlit.app/)
 
 🧠 Today's Focus:
 I built a Content-Based Movie Recommendation System that suggests movies similar to a given one—based on storyline, cast, director, and genre.
